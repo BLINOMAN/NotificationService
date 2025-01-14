@@ -1,14 +1,14 @@
-﻿using System.Net;
+using System.Net;
 using System.Net.Mail;
 
 namespace NotificationGateway.Services
 {
     public class EmailSender
     {
-        private readonly string _smtpServer = "smtp.example.com";
+        private readonly string _smtpServer = "bassq3bvq21t.mailtrap.ru";
         private readonly int _smtpPort = 587;
-        private readonly string _smtpUsername = "your-email@example.com";
-        private readonly string _smtpPassword = "your-email-password";
+        private readonly string _smtpUsername = "bassq3bvq21t";
+        private readonly string _smtpPassword = "bajygvzmwsid";
 
         public void SendEmail(string recipient, string subject, string body)
         {
@@ -16,12 +16,12 @@ namespace NotificationGateway.Services
             {
                 Port = _smtpPort,
                 Credentials = new NetworkCredential(_smtpUsername, _smtpPassword),
-                EnableSsl = true,
+                EnableSsl = false,
             };
 
             var mailMessage = new MailMessage
             {
-                From = new MailAddress(_smtpUsername),
+                From = new MailAddress("example@example.com"),
                 Subject = subject,
                 Body = body,
                 IsBodyHtml = false,
