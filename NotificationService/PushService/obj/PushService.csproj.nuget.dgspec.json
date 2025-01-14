@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Windows\\System32\\NotificationService\\PushService\\PushService.csproj": {}
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\PushService\\PushService.csproj": {}
   },
   "projects": {
-    "C:\\Windows\\System32\\NotificationService\\PushService\\PushService.csproj": {
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\PushService\\PushService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Windows\\System32\\NotificationService\\PushService\\PushService.csproj",
+        "projectUniqueName": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\PushService\\PushService.csproj",
         "projectName": "PushService",
-        "projectPath": "C:\\Windows\\System32\\NotificationService\\PushService\\PushService.csproj",
+        "projectPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\PushService\\PushService.csproj",
         "packagesPath": "C:\\Users\\medos\\.nuget\\packages\\",
-        "outputPath": "C:\\Windows\\System32\\NotificationService\\PushService\\obj\\",
+        "outputPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\PushService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

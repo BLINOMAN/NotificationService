@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj": {}
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\NotificationGateway.csproj": {}
   },
   "projects": {
-    "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj": {
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\NotificationGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
+        "projectUniqueName": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
         "projectName": "NotificationGateway",
-        "projectPath": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
+        "projectPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
         "packagesPath": "C:\\Users\\medos\\.nuget\\packages\\",
-        "outputPath": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\obj\\",
+        "outputPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

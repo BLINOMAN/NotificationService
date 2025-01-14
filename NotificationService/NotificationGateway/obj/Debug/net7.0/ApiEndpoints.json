@@ -32,5 +32,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotificationGateway.Controllers.NotificationsController",
+    "Method": "GetStoredRequests",
+    "RelativePath": "api/Notifications/stored-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

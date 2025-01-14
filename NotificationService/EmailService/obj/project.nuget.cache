@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9i45cJSzQE=",
+  "dgSpecHash": "sFGUPVF/+Dk=",
   "success": true,
-  "projectFilePath": "C:\\Windows\\System32\\NotificationService\\EmailService\\EmailService.csproj",
+  "projectFilePath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\EmailService\\EmailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medos\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\medos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",

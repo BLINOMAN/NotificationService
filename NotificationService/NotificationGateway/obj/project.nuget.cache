@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7GiLDQg7Qw=",
+  "dgSpecHash": "PFg1RdB0RbI=",
   "success": true,
-  "projectFilePath": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
+  "projectFilePath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medos\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
     "C:\\Users\\medos\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",

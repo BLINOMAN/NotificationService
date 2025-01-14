@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NotificationGateway.Models;
 using NotificationGateway.Services;
+using System.Collections.Generic;
 
 namespace NotificationGateway.Controllers
 {
@@ -12,6 +13,9 @@ namespace NotificationGateway.Controllers
         private readonly RabbitMQPublisher _smsPublisher;
         private readonly RabbitMQPublisher _pushPublisher;
 
+        // قائمة لتخزين الطلبات في الذاكرة
+        private static readonly List<NotificationRequest> _storedRequests = new List<NotificationRequest>();
+
         public NotificationsController()
         {
             _emailPublisher = new RabbitMQPublisher("email_queue");
@@ -22,6 +26,9 @@ namespace NotificationGateway.Controllers
         [HttpPost]
         public IActionResult SendNotification([FromBody] NotificationRequest request)
         {
+            // حفظ الطلب الوارد في القائمة
+            _storedRequests.Add(request);
+
             if (request.Type == "email")
             {
                 _emailPublisher.Publish(request);
@@ -39,7 +46,14 @@ namespace NotificationGateway.Controllers
                 return BadRequest("Invalid notification type.");
             }
 
-            return Ok("Notification sent successfully!");
+            return Ok("Notification sent and stored successfully!");
+        }
+
+        // Endpoint جديد لعرض الطلبات المخزنة
+        [HttpGet("stored-requests")]
+        public IActionResult GetStoredRequests()
+        {
+            return Ok(_storedRequests);
         }
     }
 }

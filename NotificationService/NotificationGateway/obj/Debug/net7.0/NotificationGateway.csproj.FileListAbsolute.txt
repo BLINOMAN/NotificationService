@@ -34,3 +34,39 @@ C:\Windows\System32\NotificationService\NotificationGateway\obj\Debug\net7.0\ref
 C:\Windows\System32\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.pdb
 C:\Windows\System32\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.genruntimeconfig.cache
 C:\Windows\System32\NotificationService\NotificationGateway\obj\Debug\net7.0\ref\NotificationGateway.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\appsettings.Development.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.staticwebassets.endpoints.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\appsettings.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.exe
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.deps.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.runtimeconfig.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\NotificationGateway.pdb
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.csproj.AssemblyReference.cache
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.AssemblyInfoInputs.cache
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.AssemblyInfo.cs
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.csproj.CoreCompileInputs.cache
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\scopedcss\bundle\NotificationGateway.styles.css
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets.build.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets.development.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets\msbuild.NotificationGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets\msbuild.NotificationGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets\msbuild.build.NotificationGateway.props
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NotificationGateway.props
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NotificationGateway.props
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets.pack.json
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\Notifica.00431082.Up2Date
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\refint\NotificationGateway.dll
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.pdb
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\NotificationGateway.genruntimeconfig.cache
+D:\(E)\التحميلات من جوجل\New folder\NotificationService\NotificationGateway\obj\Debug\net7.0\ref\NotificationGateway.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Windows\\System32\\NotificationService\\SMSService\\SMSService.csproj": {}
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\SMSService\\SMSService.csproj": {}
   },
   "projects": {
-    "C:\\Windows\\System32\\NotificationService\\SMSService\\SMSService.csproj": {
+    "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\SMSService\\SMSService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Windows\\System32\\NotificationService\\SMSService\\SMSService.csproj",
+        "projectUniqueName": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\SMSService\\SMSService.csproj",
         "projectName": "SMSService",
-        "projectPath": "C:\\Windows\\System32\\NotificationService\\SMSService\\SMSService.csproj",
+        "projectPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\SMSService\\SMSService.csproj",
         "packagesPath": "C:\\Users\\medos\\.nuget\\packages\\",
-        "outputPath": "C:\\Windows\\System32\\NotificationService\\SMSService\\obj\\",
+        "outputPath": "D:\\(E)\\التحميلات من جوجل\\New folder\\NotificationService\\SMSService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

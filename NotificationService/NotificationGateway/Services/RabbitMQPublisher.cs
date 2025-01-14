@@ -9,10 +9,12 @@ namespace NotificationGateway.Services
     {
         private readonly string _hostName = "localhost";
         private readonly string _queueName;
+        private readonly EmailSender _emailSender;
 
         public RabbitMQPublisher(string queueName)
         {
             _queueName = queueName;
+            _emailSender = new EmailSender(); // إنشاء كائن EmailSender
         }
 
         public void Publish(NotificationRequest request)
@@ -26,6 +28,12 @@ namespace NotificationGateway.Services
             var body = Encoding.UTF8.GetBytes(message);
 
             channel.BasicPublish(exchange: "", routingKey: _queueName, basicProperties: null, body: body);
+
+            // إرسال الإيميل إذا كان نوع الإشعار "email"
+            if (_queueName == "email_queue")
+            {
+                _emailSender.SendEmail(request.Recipient, "Notification", request.Message);
+            }
         }
     }
 }
